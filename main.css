@@ -44,7 +44,7 @@ table#links {
 }
 table#links td {
 	font-family: -apple-system, helvetica, arial, sans-serif;
-	display: inline;
+	display: inline-flex;
 	margin-right: 20px;
 }
 table#links td a {
