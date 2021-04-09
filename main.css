@@ -54,65 +54,6 @@ table#links td a {
 table#links td a:hover {
 	text-decoration: underline;
 }
-.section table {
-	padding-left: 15px;
-}
-#photo img {
-	width: 100%;
-}
-#photo #caption {
-	color: rgba(0, 0, 0, 0.5);
-	margin-top: 0;
-	font-size: 12px;
-	float: right;
-}
-.nav,
-#papers {
-	max-width: 700px;
-	margin: 0 auto 100px auto;
-}
-#papers {
-	margin-top: 40px;
-}
-#papers h1 {
-	margin-top: 60px;
-	margin-bottom: 40px;
-}
-#papers .paper-row {
-	margin-bottom: 30px;
-}
-#papers .paper-title,
-#papers .paper-authors,
-#papers .paper-venue,
-#papers .paper-links {
-	margin: 0;
-}
-#papers .pub-links {
-	list-style-type: none;
-	padding-left: 0;
-	margin-top: 0;
-}
-.nav {
-	margin-top: 15px;
-	margin-bottom: 15px;
-}
-.nav a {
-	color: rgba(0, 0, 0, 0.6);
-	text-decoration: none;
-	border-bottom: none;
-	font-size: 12px;
-}
-.nav a:hover {
-  	font-weight: bold;
-}
-.nav ul {
-	list-style-type: none;
-	padding: 0;
-}
-.nav ul li {
-	display: inline;
-	margin-right: 10px;
-}
 
 /* Mobile.
  */
